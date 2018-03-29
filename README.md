@@ -49,3 +49,19 @@ follow the following step for Postman
 ]
 
 
+# Step 1:
+![step1](https://user-images.githubusercontent.com/29585710/38096494-9cdfc79a-3390-11e8-81c8-6e15f24e9996.PNG)
+
+# Step 2:
+![step2](https://user-images.githubusercontent.com/29585710/38096698-26c20068-3391-11e8-9dda-766ee0101bb3.png)
+
+# Step 3:
+![step3](https://user-images.githubusercontent.com/29585710/38096717-3458c3f6-3391-11e8-83a5-d45fa41a30ab.png)
+
+# Step 4:
+![step5](https://user-images.githubusercontent.com/29585710/38096735-3b98852a-3391-11e8-904d-e52d66416860.png)
+
+# Step 5:
+![step6](https://user-images.githubusercontent.com/29585710/38096733-3b3944ca-3391-11e8-8cc3-008aa196813c.png)
+
+
